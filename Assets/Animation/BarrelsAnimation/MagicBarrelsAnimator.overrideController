@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MagicBarrelsAnimator
+  m_Controller: {fileID: 9100000, guid: 7757bbbadb6584431b71f85565914183, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d70fcf02f4a104016b204b7221b72b04, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4af4f85e4cd11445882602d7dfa61b2b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8aeb9acf607ac43f8b1be617dad84205, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1899e931ca95f45f6be2c732f3c0cb69, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 31f7ccd86516945bfad2cb3e3c4e065a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 31f7ccd86516945bfad2cb3e3c4e065a, type: 2}

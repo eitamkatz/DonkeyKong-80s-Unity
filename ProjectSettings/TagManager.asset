@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ladder
+  - ground
+  - Wall
+  - LadderTrigger
+  - barrel
+  - Gate
+  - Hammer
+  - HammerDestroy
+  - donkeyKong
+  - magicBarrel
+  - fireBall
+  - firstBarrel
+  - firstground
+  - shield
+  - bullet
+  - Fall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Ladder
+  - Barrel
+  - Player
+  - BarelBox
+  - PlayerBox
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: first
+    uniqueID: 1897260551
+    locked: 0
+  - name: Ladder
+    uniqueID: 137012623
+    locked: 0
+  - name: Barrel
+    uniqueID: 2167105393
+    locked: 0

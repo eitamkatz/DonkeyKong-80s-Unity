@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: b57cf38ad1deb4d178732f1c26bbcb4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Arcade - Donkey Kong - 25 M50 M_0
+  - first:
+      213: 21300002
+    second: Arcade - Donkey Kong - 25 M50 M_1
+  - first:
+      213: 21300004
+    second: Arcade - Donkey Kong - 25 M50 M_2
+  - first:
+      213: 21300006
+    second: Arcade - Donkey Kong - 25 M50 M_3
+  - first:
+      213: 21300008
+    second: Arcade - Donkey Kong - 25 M50 M_4
+  - first:
+      213: 21300010
+    second: Arcade - Donkey Kong - 25 M50 M_5
+  - first:
+      213: 21300012
+    second: Arcade - Donkey Kong - 25 M50 M_6
+  - first:
+      213: 21300014
+    second: Arcade - Donkey Kong - 25 M50 M_7
+  - first:
+      213: 21300016
+    second: Arcade - Donkey Kong - 25 M50 M_8
+  - first:
+      213: 21300018
+    second: Arcade - Donkey Kong - 25 M50 M_9
+  - first:
+      213: 21300020
+    second: Arcade - Donkey Kong - 25 M50 M_10
+  - first:
+      213: 21300022
+    second: Arcade - Donkey Kong - 25 M50 M_11
+  - first:
+      213: 21300024
+    second: Arcade - Donkey Kong - 25 M50 M_12
+  - first:
+      213: 21300026
+    second: Arcade - Donkey Kong - 25 M50 M_13
+  - first:
+      213: 21300028
+    second: Arcade - Donkey Kong - 25 M50 M_14
+  - first:
+      213: 21300030
+    second: Arcade - Donkey Kong - 25 M50 M_15
+  - first:
+      213: 21300032
+    second: Arcade - Donkey Kong - 25 M50 M_16
+  - first:
+      213: 21300034
+    second: Arcade - Donkey Kong - 25 M50 M_17
+  - first:
+      213: 21300036
+    second: Arcade - Donkey Kong - 25 M50 M_18
+  - first:
+      213: 21300038
+    second: Arcade - Donkey Kong - 25 M50 M_19
+  - first:
+      213: 21300040
+    second: Arcade - Donkey Kong - 25 M50 M_20
+  - first:
+      213: 21300042
+    second: Arcade - Donkey Kong - 25 M50 M_21
+  - first:
+      213: 21300044
+    second: Arcade - Donkey Kong - 25 M50 M_22
+  - first:
+      213: 21300046
+    second: Arcade - Donkey Kong - 25 M50 M_23
+  - first:
+      213: 21300048
+    second: Arcade - Donkey Kong - 25 M50 M_24
+  - first:
+      213: 21300050
+    second: Arcade - Donkey Kong - 25 M50 M_25
+  - first:
+      213: 21300052
+    second: Arcade - Donkey Kong - 25 M50 M_26
+  - first:
+      213: 21300054
+    second: Arcade - Donkey Kong - 25 M50 M_27
+  - first:
+      213: 21300056
+    second: Arcade - Donkey Kong - 25 M50 M_28
+  - first:
+      213: 21300058
+    second: Arcade - Donkey Kong - 25 M50 M_29
+  - first:
+      213: 21300060
+    second: Arcade - Donkey Kong - 25 M50 M_30
+  - first:
+      213: 21300062
+    second: Arcade - Donkey Kong - 25 M50 M_31
+  - first:
+      213: 21300064
+    second: Arcade - Donkey Kong - 25 M50 M_32
+  - first:
+      213: 21300066
+    second: Arcade - Donkey Kong - 25 M50 M_33
+  - first:
+      213: 21300068
+    second: Arcade - Donkey Kong - 25 M50 M_34
+  - first:
+      213: 21300070
+    second: Arcade - Donkey Kong - 25 M50 M_35
+  - first:
+      213: 21300072
+    second: Arcade - Donkey Kong - 25 M50 M_36
+  - first:
+      213: 21300074
+    second: Arcade - Donkey Kong - 25 M50 M_37
+  - first:
+      213: 21300076
+    second: Arcade - Donkey Kong - 25 M50 M_38
+  - first:
+      213: 21300078
+    second: Arcade - Donkey Kong - 25 M50 M_39
+  - first:
+      213: 21300080
+    second: Arcade - Donkey Kong - 25 M50 M_40
+  - first:
+      213: 21300082
+    second: Arcade - Donkey Kong - 25 M50 M_41
+  - first:
+      213: 21300084
+    second: Arcade - Donkey Kong - 25 M50 M_42
+  - first:
+      213: 21300086
+    second: Arcade - Donkey Kong - 25 M50 M_43
+  - first:
+      213: 21300088
+    second: Arcade - Donkey Kong - 25 M50 M_44
+  - first:
+      213: 21300090
+    second: Arcade - Donkey Kong - 25 M50 M_45
+  - first:
+      213: 21300092
+    second: Arcade - Donkey Kong - 25 M50 M_46
+  - first:
+      213: 21300094
+    second: Arcade - Donkey Kong - 25 M50 M_47
+  - first:
+      213: 21300096
+    second: Arcade - Donkey Kong - 25 M50 M_48
+  - first:
+      213: 21300098
+    second: Arcade - Donkey Kong - 25 M50 M_49
+  - first:
+      213: 21300100
+    second: Arcade - Donkey Kong - 25 M50 M_50
+  - first:
+      213: 21300102
+    second: Arcade - Donkey Kong - 25 M50 M_51
+  - first:
+      213: 21300104
+    second: Arcade - Donkey Kong - 25 M50 M_52
+  - first:
+      213: 21300106
+    second: Arcade - Donkey Kong - 25 M50 M_53
+  - first:
+      213: 21300108
+    second: Arcade - Donkey Kong - 25 M50 M_54
+  - first:
+      213: 21300110
+    second: Arcade - Donkey Kong - 25 M50 M_55
+  - first:
+      213: 21300112
+    second: Arcade - Donkey Kong - 25 M50 M_56
+  - first:
+      213: 21300114
+    second: Arcade - Donkey Kong - 25 M50 M_57
+  - first:
+      213: 21300116
+    second: Arcade - Donkey Kong - 25 M50 M_58
+  - first:
+      213: 21300118
+    second: Arcade - Donkey Kong - 25 M50 M_59
+  - first:
+      213: 21300120
+    second: Arcade - Donkey Kong - 25 M50 M_60
+  - first:
+      213: 21300122
+    second: Arcade - Donkey Kong - 25 M50 M_61
+  - first:
+      213: 21300124
+    second: Arcade - Donkey Kong - 25 M50 M_62
+  - first:
+      213: 21300126
+    second: Arcade - Donkey Kong - 25 M50 M_63
+  - first:
+      213: 21300128
+    second: Arcade - Donkey Kong - 25 M50 M_64
+  - first:
+      213: 21300130
+    second: Arcade - Donkey Kong - 25 M50 M_65
+  - first:
+      213: 21300132
+    second: Arcade - Donkey Kong - 25 M50 M_66
+  - first:
+      213: 21300134
+    second: Arcade - Donkey Kong - 25 M50 M_67
+  - first:
+      213: 21300136
+    second: Arcade - Donkey Kong - 25 M50 M_68
+  - first:
+      213: 21300138
+    second: Arcade - Donkey Kong - 25 M50 M_69
+  - first:
+      213: 21300140
+    second: Arcade - Donkey Kong - 25 M50 M_70
+  - first:
+      213: 21300142
+    second: Arcade - Donkey Kong - 25 M50 M_71
+  - first:
+      213: 21300144
+    second: Arcade - Donkey Kong - 25 M50 M_72
+  - first:
+      213: 21300146
+    second: Arcade - Donkey Kong - 25 M50 M_73
+  - first:
+      213: 21300148
+    second: Arcade - Donkey Kong - 25 M50 M_74
+  - first:
+      213: 21300150
+    second: Arcade - Donkey Kong - 25 M50 M_75
+  - first:
+      213: 21300152
+    second: Arcade - Donkey Kong - 25 M50 M_76
+  - first:
+      213: 21300154
+    second: Arcade - Donkey Kong - 25 M50 M_77
+  - first:
+      213: 21300156
+    second: Arcade - Donkey Kong - 25 M50 M_78
+  - first:
+      213: 21300158
+    second: Arcade - Donkey Kong - 25 M50 M_79
+  - first:
+      213: 21300160
+    second: Arcade - Donkey Kong - 25 M50 M_80
+  - first:
+      213: 21300162
+    second: Arcade - Donkey Kong - 25 M50 M_81
+  - first:
+      213: 21300164
+    second: Arcade - Donkey Kong - 25 M50 M_82
+  - first:
+      213: 21300166
+    second: Arcade - Donkey Kong - 25 M50 M_83
+  - first:
+      213: 21300168
+    second: Arcade - Donkey Kong - 25 M50 M_84
+  - first:
+      213: 21300170
+    second: Arcade - Donkey Kong - 25 M50 M_85
+  - first:
+      213: 21300172
+    second: Arcade - Donkey Kong - 25 M50 M_86
+  - first:
+      213: 21300174
+    second: Arcade - Donkey Kong - 25 M50 M_87
+  - first:
+      213: 21300176
+    second: Arcade - Donkey Kong - 25 M50 M_88
+  - first:
+      213: 21300178
+    second: Arcade - Donkey Kong - 25 M50 M_89
+  - first:
+      213: 21300180
+    second: Arcade - Donkey Kong - 25 M50 M_90
+  - first:
+      213: 21300182
+    second: Arcade - Donkey Kong - 25 M50 M_91
+  - first:
+      213: 21300184
+    second: Arcade - Donkey Kong - 25 M50 M_92
+  - first:
+      213: 21300186
+    second: Arcade - Donkey Kong - 25 M50 M_93
+  - first:
+      213: 21300188
+    second: Arcade - Donkey Kong - 25 M50 M_94
+  - first:
+      213: 21300190
+    second: Arcade - Donkey Kong - 25 M50 M_95
+  - first:
+      213: 21300192
+    second: Arcade - Donkey Kong - 25 M50 M_96
+  - first:
+      213: 21300194
+    second: Arcade - Donkey Kong - 25 M50 M_97
+  - first:
+      213: 21300196
+    second: Arcade - Donkey Kong - 25 M50 M_98
+  - first:
+      213: 21300198
+    second: Arcade - Donkey Kong - 25 M50 M_99
+  - first:
+      213: 21300200
+    second: Arcade - Donkey Kong - 25 M50 M_100
+  - first:
+      213: 21300202
+    second: Arcade - Donkey Kong - 25 M50 M_101
+  - first:
+      213: 21300204
+    second: Arcade - Donkey Kong - 25 M50 M_102
+  - first:
+      213: 21300206
+    second: Arcade - Donkey Kong - 25 M50 M_103
+  - first:
+      213: 21300208
+    second: Arcade - Donkey Kong - 25 M50 M_104
+  - first:
+      213: 21300210
+    second: Arcade - Donkey Kong - 25 M50 M_105
+  - first:
+      213: 21300212
+    second: Arcade - Donkey Kong - 25 M50 M_106
+  - first:
+      213: 21300214
+    second: Arcade - Donkey Kong - 25 M50 M_107
+  - first:
+      213: 21300216
+    second: Arcade - Donkey Kong - 25 M50 M_108
+  - first:
+      213: 21300218
+    second: Arcade - Donkey Kong - 25 M50 M_109
+  - first:
+      213: 21300220
+    second: Arcade - Donkey Kong - 25 M50 M_110
+  - first:
+      213: 21300222
+    second: Arcade - Donkey Kong - 25 M50 M_111
+  - first:
+      213: 21300224
+    second: Arcade - Donkey Kong - 25 M50 M_112
+  - first:
+      213: 21300226
+    second: Arcade - Donkey Kong - 25 M50 M_113
+  - first:
+      213: 21300228
+    second: Arcade - Donkey Kong - 25 M50 M_114
+  - first:
+      213: 21300230
+    second: Arcade - Donkey Kong - 25 M50 M_115
+  - first:
+      213: 21300232
+    second: Arcade - Donkey Kong - 25 M50 M_116
+  - first:
+      213: 21300234
+    second: Arcade - Donkey Kong - 25 M50 M_117
+  - first:
+      213: 21300236
+    second: Arcade - Donkey Kong - 25 M50 M_118
+  - first:
+      213: 21300238
+    second: Arcade - Donkey Kong - 25 M50 M_119
+  - first:
+      213: 21300240
+    second: Arcade - Donkey Kong - 25 M50 M_120
+  - first:
+      213: 21300242
+    second: Arcade - Donkey Kong - 25 M50 M_121
+  - first:
+      213: 21300244
+    second: Arcade - Donkey Kong - 25 M50 M_122
+  - first:
+      213: 21300246
+    second: Arcade - Donkey Kong - 25 M50 M_123
+  - first:
+      213: 21300248
+    second: Arcade - Donkey Kong - 25 M50 M_124
+  - first:
+      213: 21300250
+    second: Arcade - Donkey Kong - 25 M50 M_125
+  - first:
+      213: 21300252
+    second: Arcade - Donkey Kong - 25 M50 M_126
+  - first:
+      213: 21300254
+    second: Arcade - Donkey Kong - 25 M50 M_127
+  - first:
+      213: 21300256
+    second: Arcade - Donkey Kong - 25 M50 M_128
+  - first:
+      213: 21300258
+    second: Arcade - Donkey Kong - 25 M50 M_129
+  - first:
+      213: 21300260
+    second: Arcade - Donkey Kong - 25 M50 M_130
+  - first:
+      213: 21300262
+    second: Arcade - Donkey Kong - 25 M50 M_131
+  - first:
+      213: 21300264
+    second: Arcade - Donkey Kong - 25 M50 M_132
+  - first:
+      213: 21300266
+    second: Arcade - Donkey Kong - 25 M50 M_133
+  - first:
+      213: 21300268
+    second: Arcade - Donkey Kong - 25 M50 M_134
+  - first:
+      213: 21300270
+    second: Arcade - Donkey Kong - 25 M50 M_135
+  - first:
+      213: 21300272
+    second: Arcade - Donkey Kong - 25 M50 M_136
+  - first:
+      213: 21300274
+    second: Arcade - Donkey Kong - 25 M50 M_137
+  - first:
+      213: 21300276
+    second: Arcade - Donkey Kong - 25 M50 M_138
+  - first:
+      213: 21300278
+    second: Arcade - Donkey Kong - 25 M50 M_139
+  - first:
+      213: 21300280
+    second: Arcade - Donkey Kong - 25 M50 M_140
+  - first:
+      213: 21300282
+    second: Arcade - Donkey Kong - 25 M50 M_141
+  - first:
+      213: 21300284
+    second: Arcade - Donkey Kong - 25 M50 M_142
+  - first:
+      213: 21300286
+    second: Arcade - Donkey Kong - 25 M50 M_143
+  - first:
+      213: 21300288
+    second: Arcade - Donkey Kong - 25 M50 M_144
+  - first:
+      213: 21300290
+    second: Arcade - Donkey Kong - 25 M50 M_145
+  - first:
+      213: 21300292
+    second: Arcade - Donkey Kong - 25 M50 M_146
+  - first:
+      213: 21300294
+    second: Arcade - Donkey Kong - 25 M50 M_147
+  - first:
+      213: 21300296
+    second: Arcade - Donkey Kong - 25 M50 M_148
+  - first:
+      213: 21300298
+    second: Arcade - Donkey Kong - 25 M50 M_149
+  - first:
+      213: 21300300
+    second: Arcade - Donkey Kong - 25 M50 M_150
+  - first:
+      213: 21300302
+    second: Arcade - Donkey Kong - 25 M50 M_151
+  - first:
+      213: 21300304
+    second: Arcade - Donkey Kong - 25 M50 M_152
+  - first:
+      213: 21300306
+    second: Arcade - Donkey Kong - 25 M50 M_153
+  - first:
+      213: 21300308
+    second: Arcade - Donkey Kong - 25 M50 M_154
+  - first:
+      213: 21300310
+    second: Arcade - Donkey Kong - 25 M50 M_155
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DieSprites_0
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153a7e40c5feb4986b13f18ac5feee25
+      internalID: -1478255773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DieSprites_1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d4212148624d8a82b34323abfd883
+      internalID: -1760858277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bf8d4edec55cf4070ba7cb0173175498
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DieSprites_1: -1760858277
+      DieSprites_0: -1478255773
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
